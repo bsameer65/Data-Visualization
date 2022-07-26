@@ -1,1 +1,1 @@
-This Repository includes the solved exercise of Kaggle Data Visualization Course.
+This Repository includes the solved exercises of Kaggle Data Visualization Course.
